@@ -1,1 +1,1 @@
-# JwtBearerAuthentication
+https://jwt.io/introduction
